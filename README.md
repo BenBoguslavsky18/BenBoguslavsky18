@@ -18,9 +18,10 @@ Or, find code and reports from my projects [here](https://github.com/BenBoguslav
 ---
 
 ### 😊 My Interests
-- 🏀 Playing basketball
+- 🏀 Basketball
 - 💪 Bodybuilding and Strength Training
 - 🎶 Playing Music (guitar, saxophone, or piano)
+- 🌊 Swimming
 - 🌎 Hiking, exploring, and traveling
 
 ---
