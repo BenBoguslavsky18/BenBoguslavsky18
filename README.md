@@ -27,4 +27,4 @@ Or, find code and reports from my projects [here](https://github.com/BenBoguslav
 
 ### 📬 Reach out to me!
 📧 ben.boguslavsky@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/ben-boguslavsky) • [GitHub](https://github.com/BenBoguslavsky18)
+🔗 [LinkedIn](https://linkedin.com/in/ben-boguslavsky)
