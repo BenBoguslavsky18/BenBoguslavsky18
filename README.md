@@ -3,7 +3,7 @@
 I'm a Mechatronics Engineering student at the University of Waterloo (📍Ontario, Canada), passionate about building intelligent machines that can perceive, move, and interact with the world. My goal is to one day work in humanoid robotics!
 
 ### 👨‍💻 What I Do
-Over the past few years, I’ve worked on:
+Some things I’ve worked on:
 - 🤖 Collision-avoiding KUKA & Sawyer robot arms for HRI research
 - 🔍 Real-time AI-based defect detection systems in C++ with YOLO, OpenCV, and ONNX Runtime with CUDA & TensorRT Execution Providers
 - 🕶️ A VR shopping app where you you can try on clothes from online stores (Hack the North)
