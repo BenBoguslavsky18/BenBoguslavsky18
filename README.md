@@ -1,26 +1,25 @@
 # 👋 Hey there, I'm Ben!
 
-I'm a Mechatronics Engineering student at the University of Waterloo (📍Ontario, Canada), passionate about building intelligent machines that can perceive, move, and interact with the world. My goal is to one day work in humanoid robotics!
+I'm a Mechatronics Engineering student at the University of Waterloo (📍Ontario, Canada), passionate about systems where software and hardware meet. My current interests lie in digital systems (FPGA), firmware, and electrical design and humanoid robotics
 
 ### 👨‍💻 What I Do
 Some things I’ve worked on:
-- 🤖 Collision-avoiding KUKA & Sawyer robot arms for HRI research
-- 🔍 Real-time AI-based defect detection systems in C++ with YOLO, OpenCV, and ONNX Runtime with CUDA & TensorRT Execution Providers
+- 🤖 Humanoid Robot at Noble Machines (Sunnyvale, CA), where I worked on EtherCAT, firmware, and more
+- 🔍 Robotics research in several labs (Waterloo, Ontario and Hamburg, Germany!)
 - 🕶️ A VR shopping app where you you can try on clothes from online stores (Hack the North)
-- ⚙️ Embedded systems: STM32, sensor interfacing, motor control
 
 Check out my Resume & Portfolio [here](https://github.com/BenBoguslavsky18/Bens-Portfolio)!
 Or, find code and reports from my projects [here](https://github.com/BenBoguslavsky18?tab=repositories).
 
 ### 🛠️ Tech Stack
-`C++` `Python` `C#` `Java` `ROS` `OpenCV` `Linux` `STM32`... and more :)
+`C++` `C` `Python` `Linux` `STM32` `C#` `Java` `ROS` `OpenCV`... and more :)
 
 ---
 
 ### 😊 My Interests
 - 🏀 Basketball
 - 💪 Bodybuilding and Strength Training
-- 🎶 Playing Music (guitar, saxophone, or piano)
+- 🎶 Playing Music (guitar, saxophone, piano)
 - 🌊 Swimming
 - 🌎 Hiking, exploring, and traveling
 
